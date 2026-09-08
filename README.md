@@ -4,7 +4,7 @@
   <a href="https://github.com/ZaneeYang"><img src="https://img.shields.io/badge/GitHub-ZaneeYang-181717?style=flat&logo=github" /></a>
   <a href="https://scholar.google.com/citations?user=trFnjhkAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-Zanekun%20Yang-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
   <a href="mailto:yzknower@163.com"><img src="https://img.shields.io/badge/Email-yzknower@163.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://github.com/ZaneeYang/homepage](https://homepage-kohl-delta.vercel.app/)"><img src="https://img.shields.io/badge/Website-Personal%20Homepage-0071e3?style=flat" /></a>
+  <a href="https://homepage-kohl-delta.vercel.app/"><img src="https://img.shields.io/badge/Website-Personal%20Homepage-0071e3?style=flat" /></a>
 </p>
 
 ✨**Let's explore the wonderful world with curiosity!**
